@@ -1,0 +1,7 @@
+query {
+  list {
+    id
+    title
+    description
+  }
+}
